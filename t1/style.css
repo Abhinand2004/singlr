@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(252, 228, 232);
+    
+
+}.d1{
+    width: 88%;
+    height: 20px;
+    background-color: black;
+    position: relative;
+    left: 70px;
+    top: 100px;
+    text-align: end;
+    padding: 10px ;
+
+}#l1{
+    color: rgb(249, 249, 247);  
+    position: absolute;
+    left: 10px; 
+    font-family: "bold";
+    
+    
+}.b1{
+    background-color: black;
+    color: white;
+    border-style: none;
+    
+    
+}.d2{
+    background-image: url(website_image\ \(1\).jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 88%;
+    height: 600px;
+    position: absolute;
+    left: 78px;
+    top: 148px;
+}.d3{
+position: absolute;
+left: 600px;
+top: 160px;
+}
+@font-face {
+    font-family: "bold";
+    src: url("Bold.ttf");
+}
